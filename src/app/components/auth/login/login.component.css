@@ -1,0 +1,33 @@
+.body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #303030;
+}
+
+.login{
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.4)
+}
+
+.width{
+    width: 80%;
+}
+
+form{
+    padding-bottom: 10px;
+}
+
+h2{
+    color: #fff;
+}
+
+.spinner{
+    margin: 0 auto;
+}
